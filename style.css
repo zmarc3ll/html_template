@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #223d53;
+}
+body{
+    background-color: #4d87b6;
+    padding-top: 60px;
+}
+.navbar-brand {
+    width: 4%;
+    height: 4%;
+}
